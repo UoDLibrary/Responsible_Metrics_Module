@@ -1,0 +1,1 @@
+This module is adapted from the University of Southampton Library module which is made using R, hosted on Github, and available under a CC BY Licence. The original repository by University of Southampton Library contains clear instructions on adapting the module for your institution.
