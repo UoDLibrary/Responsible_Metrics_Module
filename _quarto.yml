@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - Section1.qmd
+    - Section2.qmd
+    - Section3.qmd
+    - Section4.qmd
+    - about.qmd
+
+website:
+  title: "Responsible Research Metrics Self Study Module"
+  repo-url: "https://github.com/UoDLibrary/Responsible_Metrics_Module"
+  repo-branch: main
+  repo-actions: 
+  - edit
+  - issue
+  google-analytics: 
+    tracking-id: "269011340"
+  navbar:
+    logo: "images/UoD_Logo_port_RGB_Blk.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - Section1.qmd
+      - Section2.qmd
+      - Section3.qmd
+      - Section4.qmd
+      - about.qmd
+    
+  sidebar:
+    style: docked
+    search: true
+    contents:
+        - href: index.qmd
+          text: "Home"
+        - href: Section1.qmd
+          text: "Section 1"
+        - href: Section2.qmd
+          text: "Section 2"
+        - href: Section3.qmd
+          text: "Section 3"
+        - href: Section4.qmd
+          text: "Section 4"
+        - href: about.qmd
+          text: "About"
+          
+  back-to-top-navigation: true
+  page-navigation: true
+  page-footer: "Created by Katet Lapage, Clare Hemmings and Lorrayne Smith @ University of Southampton Library shared under a CC BY licence and adapted by Naomi Richards @ University of Derby"
+
+format:
+  html:
+    link-external-newwindow: true
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
