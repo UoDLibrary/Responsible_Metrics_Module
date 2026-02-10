@@ -69,7 +69,7 @@ Continually assess commonly used metrics, especially concerning appropriateness 
 
 ### **Different cultures of research and publishing**
 
-It is important to recognize that all research disciplines have their own cultures and unwritten standards of research, and publication practice, which will influence quantitative metrics as well as qualitative assessment. All metric outputs must be examined and interpreted through the lens of a disciplinary specific culture of publishing. For example, culture of publishing will affect how many citations is considered a “large” amount, as well as other factors such as which publication types are most popular, how common collaboration is and how large research groups usually are. These factors, and more, will all influence the rate and visibility of research outputs. This is not necessarily a “good” or “bad” thing, but simply another consideration when working with research metrics. 
+It is important to recognize that all research disciplines have their own cultures and unwritten standards of research, and publication practice, which will influence quantitative metrics as well as qualitative assessment. All metric outputs must be examined and interpreted through the lens of a disciplinary specific culture of publishing. For example, culture of publishing will affect how many citations is considered a “large” amount, as well as other factors such as which publication types are most popular, how common collaboration is and how large research groups usually are. These factors, and more, will all influence the rate and visibility of research outputs. This is not necessarily a “good” or “bad” thing, but simply another consideration when working with research metrics.
 
 ### **Guidelines around metrics**
 
