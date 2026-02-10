@@ -42,8 +42,12 @@ If you need metrics to help you in your decision-making process there are severa
     -   Content may have been wrongly affiliated to a researcher or their content wrongly associated with someone else.  
 -   Citations take a long time to accrue, favouring older papers over new.
 -   Lack of context:
-    -   there is no way of knowing if citations are positive or negative;
-    -   volume of citations vary across disciplines, if you are subject expert you may have the contextual knowledge of what to expect but, if not it can be hard to determine whether it is good or not.
+    -   there is no way of knowing if citations are positive or negative
+-   Different cultures of research and publishing:
+    -   volume of citations vary across disciplines, and what is considered a high number of citations for one research area might not be applicable to all disciplines
+    -   publication type preferences can also depend on the discipline, with some research cultures preferring journal articles while others favour books or dataset publications
+    -   cultures of research and publication will also influence publication timelines as well as how long a piece of research stays relevant in the discipline
+    -   if you are subject expert you may have the contextual knowledge of what to expect but, if not it can be hard to determine whether it is good or not.
 -   Requesting ‘top 10’ lists may automatically put early career researchers at a disadvantage.
 -   Different software/databases count things in different ways so it may lead to results you cannot compare.
 -   Researchers may use flawed metrics such as h-index, as a proxy of quality and not a true reflection of contribution.
@@ -56,6 +60,8 @@ Researchers are ultimately more than just their scholarly output so you should n
 Thank you for taking the time to complete this section. This is the last part of this self-study module.
 
 ### **What’s next?**
+
+Test your knowledge with our [Responsible Metrics Quiz](https://forms.office.com/e/HPaZ4MG0Pw?origin=lprLink){target="_blank"}
 
 Read the [University responsible metrics policy](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/Responsible-Use-of-Metrics.aspx){target="_blank"}
 

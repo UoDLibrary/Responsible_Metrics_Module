@@ -67,6 +67,10 @@ Anyone should be able to reproduce your results by using the explanation you hav
 
 Continually assess commonly used metrics, especially concerning appropriateness and equality. If a metric is no longer fit for purpose, it should not be used. 
 
+### **Different cultures of research and publishing**
+
+It is important to recognize that all research disciplines have their own cultures and unwritten standards of research, and publication practice, which will influence quantitative metrics as well as qualitative assessment. All metric outputs must be examined and interpreted through the lens of a disciplinary specific culture of publishing. For example, culture of publishing will affect how many citations is considered a “large” amount, as well as other factors such as which publication types are most popular, how common collaboration is and how large research groups usually are. These factors, and more, will all influence the rate and visibility of research outputs. This is not necessarily a “good” or “bad” thing, but simply another consideration when working with research metrics. 
+
 ### **Guidelines around metrics**
 
 A number of guidelines have been published which look to shape our approach to responsible metrics.  The University has its own [responsible metrics policy](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/Responsible-Use-of-Metrics.aspx){target="_blank"} which is based on the principles of DORA and the Leiden Manifesto (<https://doi.org/10.1038/520429a>). Below are summaries of three key international initiatives, each of which advise on a different aspect: 

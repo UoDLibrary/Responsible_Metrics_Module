@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-This is version 1 of the Responsible Research Metrics Self-Study module. The module was written by the Bibliometrics Team at the University of Southampton Library in 2024 and released in February 2025.
+This is version 2.0 of the Responsible Research Metrics Self-Study module. The module was written by the Bibliometrics Team at the University of Southampton Library in 2024 and released in February 2025.
 
 The module team is;
 
@@ -16,4 +16,12 @@ Links provided to sites external to the University of Southampton were accurate 
 
 This module is shared under a CC BY license so that it may be adapted to suit other institutions' policies. We ask that this page remains with further information by the adapting organisation added beneath. The module has been developed in R using Quarto and is available on GitHub for remixing <https://github.com/UniSotonLibrary/responsible-metrics/>
 
-The University of Southampton module was adapted for the University of Derby by Research Intelligence Librarian Naomi Richards in October 2025. All policies and LibGuides referenced now direct to University of Derby policies and resources. 
+The University of Southampton module was adapted for the University of Derby by Research Intelligence Librarian Naomi Richards in October 2025. All policies and LibGuides referenced now direct to University of Derby policies and resources. Feedback is welcome and can be submitted anonymously through the [Feedback form](https://forms.office.com/e/CnZyHfETdq?origin=lprLink).
+
+Update 2.0 February 2026
+
+-   Section 1: Information on different cultures of research added
+-   Section 3: Test yourself quiz added
+-   Section 4: Test yourself quiz and further informtaion on different cultures of research added
+-   Section 5 added
+-   About: feedback form added

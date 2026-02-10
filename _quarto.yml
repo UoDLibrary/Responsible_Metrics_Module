@@ -7,6 +7,7 @@ project:
     - Section2.qmd
     - Section3.qmd
     - Section4.qmd
+    - Section5.qmd
     - about.qmd
 
 website:
@@ -17,7 +18,7 @@ website:
   - edit
   - issue
   google-analytics: 
-    tracking-id: "269011340"
+    tracking-id: "G-VZ21V1F0L2"
   navbar:
     logo: "images/UoD_Logo_port_RGB_Blk.png"
     left:
@@ -27,6 +28,7 @@ website:
       - Section2.qmd
       - Section3.qmd
       - Section4.qmd
+      - Section5.qmd
       - about.qmd
     
   sidebar:
@@ -43,6 +45,8 @@ website:
           text: "Section 3"
         - href: Section4.qmd
           text: "Section 4"
+        - href: Section5.qmd
+          text: "Section 5"
         - href: about.qmd
           text: "About"
           

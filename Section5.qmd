@@ -1,0 +1,170 @@
+---
+title: "Section5"
+format: html
+---
+
+## **Section 5 -** Research Metrics in the UK Context
+
+This section is designed for:
+
+-   anyone interested in how research metrics are used within the UK higher education context;
+-   those at UK higher education institutions (HEIs) who are involved in or influenced by the Research Excellence Framework (REF) in any capacity
+
+In this section you will explore:
+
+-   a basic introduction to the Research Excellence Framework (REF);
+-   information on how research metrics might be used in REF submissions
+
+### Introduction to section
+
+The United Kingdom’s system for assessing the research quality of UK HEIs is called the Research Excellence Framework (REF).  It is managed by [Research England](https://www.ukri.org/councils/research-england/), which is part of the governmental body [UK Research and Innovation](https://www.ukri.org/). This system was first implemented in 2014 following previous research assessment exercises such as RAE 2008. The next REF assessment will take place in 2029. REF outcomes are very important to UK HEIs because they are used to inform university research funding allocations.  
+
+The [REF objectives](https://2029.ref.ac.uk/about/what-is-the-ref/) are to: 
+
+-   Inform the allocation of block-grant research funding to HEIs based on research quality. 
+-   Provide accountability for public investment in research and produce evidence of the benefits of this investment. 
+-   Provide insights into the health of research in HEIs in the UK. 
+
+### REF Submissions
+
+HEIs create REF submissions consisting of three parts:  
+
+1.  **Contribution to Knowledge and Understanding (CKU) (55% weighting)** consists of research outputs published and made available in the public domain during the specific period of assessment (for example, for REF 2029 this is 01/01/2021 to 31/12/2028). There are specific Open Access requirements as well. 
+2.  **Engagement and Impact (E&I)** **(25% weighting**) evidences the influence of research outside of academia. The University of Derby has an [Impact Team](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/MEET-THE-IMPACT-TEAM.aspx) who support academics in all stages of the research impact lifecycle, from planning to monitoring progress to evaluating outcomes and benefits.  
+3.  **Strategy, People, and Research Environment (SPRE) (20% weighting)** provides a statement on the research culture and environment of the HEI from both an institutional and [Unit of Assessment](https://2029.ref.ac.uk/panels/units-of-assessment/) (UoA) level. This is structured into 4 sections: Context, Mission, & Strategy; People; Income Infrastructure & Facilities; Collaboration, Engagement & Impact. 
+
+But what is a UoA? UoA’s are categories based on different research areas that REF submissions are organized into. There are [34 different UoAs](https://2029.ref.ac.uk/panels/units-of-assessment/). For example, UoA 1 is Clinical Medicine, and UoA 28 is History. Each UoA has an associated sub-panel, and sub-panels are grouped into the 4 following main panels:  
+
+-   [Main Panel A – Medicine, Health and Life Sciences](https://2029.ref.ac.uk/panels/units-of-assessment/#mpa) 
+-   [Main Panel B – Physical Sciences, Engineering and Mathematics](https://2029.ref.ac.uk/panels/units-of-assessment/#mpb) 
+-   [Main Panel C – Social Sciences](https://2029.ref.ac.uk/panels/units-of-assessment/#mpc) 
+-   [Main Panel D – Arts and Humanities](https://2029.ref.ac.uk/panels/units-of-assessment/#mpd) 
+
+The job of the sub-panels is to review their corresponding UoA REF submissions according to a set of assessment criteria, and the job of the main panels is to provide leadership and guidance.  
+
+The University of Derby’s research endeavours are organized into 10 UoAs:  
+
+-   Main Panel A:  
+
+    -   3 - Allied Health Professions, Dentistry, Nursing and Pharmacy 
+
+-   Main Panel B:  
+
+    -   7 - Earth Systems and Environmental Sciences 
+    -   11 - Computer Science and Informatics 
+    -   12 - Engineering 
+
+-   Main Panel C: 
+
+    -   17 - Business and Management Studies 
+
+    -   18 – Law 
+
+    -   20 - Social Work and Social Policy 
+
+    -   23 - Education 
+
+<!-- -->
+
+-   Main Panel D: 
+
+    -   32 - Art and Design: History, Practice and Theory 
+
+    -   34 - Communication, Cultural and Media Studies, Library and Information Management 
+
+### **Where Research Metrics Fit In** 
+
+#### **Strategy, People, and Research Environment (SPRE)** 
+
+As stated above there are four sections in the SPRE for both the institutional and UoA level:  
+
+-   Context, Mission, and Strategy 
+-   People 
+-   Income Infrastructure, and Facilities 
+-   Collaboration, Engagement, and Impact 
+
+All four sections could be supported by statistics and quantitative indicators as applicable. There is currently no specific guidance on the appropriate indicators which might be acceptable for supporting the SPRE element. The following are some possible suggestions of statistics, metrics, and visualisations that could be used to support the qualitative evidence provided in the SPRE. These examples will be updated as further guidance is made available.  
+
+**Context, Mission and Strategy** could be supported by statistics highlighting improvements resulting from strategic initiatives. An example of this would be showing an increase in open access research outputs after the implementation of an Open Access Policy (or equivalent). Another example could be to showcase research training initiatives through attendance demographic numbers alongside qualitative feedback about the sessions.  
+
+The section dedicated to **People** could be reflected by quantitative demographic indicators regarding the institution or UoA’s research community.  
+
+Financial statistics could be used in the **Income Infrastructure, and Facilities** portion to showcase financial investment in specific research areas, groups, development programs etc.  
+
+**Collaboration, Engagement, and Impact** could be evidenced by citation count or a citation visualisation network, which are one of the easiest ways to show engagement with a piece of academic research. However, as discussed earlier in this module, they are limited to only academic interaction, and don’t express a positive or negative impact. It would be a more meaningful addition to also provide qualitative analysis of the academic papers citing the underpinning research in order to show positive engagement in the academic sphere. Internal, national, and international collaboration networks could be used to visually highlight collaborative efforts across Institutional or UoA levels. It is important to note that impact and engagement with regards to research is included in the SPRE or CKU elements, not the E&I element. This is why research metrics such as (academic) citation numbers and networks could be appropriate to include in this section.  
+
+At the time of writing (January 2026) exact guidance on appropriate indicators for each section of SPRE is still to be finalized, and the above examples are potential suggestions. This guide will continue to be updated as further guidance is revealed. 
+
+#### **Engagement and Impact** 
+
+Engagement and Impactis designed to capture wider societal benefits arising from the research practices of the UoAs. In the latest guidance released in December 2025, impact is defined as “an effect on, change or benefit to the economy, society, culture, public policy or services, health, the environment or quality of life, beyond academia”, with the focus being on the “submitting unit's research and not the impact of individuals or individual research outputs, although they may contribute to the evidence of the submitting unit’s impact " ([REF Impact – UKRI](https://2029.ref.ac.uk/guidance/section-6-engagement-and-impact-guidance/)).  
+
+Impacts will be assessed in terms of their ‘reach’ and ‘significance’, which are respectively described as, how widely the impact was felt, and the degree of change caused. Further guidance on how the criteria of reach and significance will be used by Panels to evaluate ICS has yet to be released.  
+
+Engagement is defined as “an interaction between the HEI and relevant individuals, groups, communities, organisations, the public, commercial partners, or policy makers, that is purposeful, responsible, and context appropriate” ([REF Impact – UKRI](https://2029.ref.ac.uk/guidance/section-6-engagement-and-impact-guidance/)). According to the [latest guidance](https://2029.ref.ac.uk/guidance/section-6-engagement-and-impact-guidance/) engagement includes but is not limited to:  
+
+-   reciprocal flows of knowledge, understanding, or skills including planned or spontaneous relationships that inform research, build trust, influence practice or policy, and/or support public participation 
+-   activities that are accountable to affected communities and funders 
+-   varied disciplinary practices that may directly or indirectly contribute to wider societal, economic, cultural, or environmental benefits (impact) 
+
+As previously mentioned, impacts on research or the “advancement of academic knowledge” is excluded from this portion and should be addressed through either of the two other sections: SPRE or CKU. Impacts on students, teaching, professional practice or other activities can be included in the Engagement and Impact section; however, the criteria and expectations in relation to these areas have not been clarified.  
+
+This portion of the REF submission is assessed through Impact Case Studies (ICS) which can be broken down into several parts, and must be no longer than 2200 words total:  
+
+1.  **Summary of Impact (100 words)** briefly summarises the specific impact that will be described in the ICS 
+2.  **Underpinning Research (600 words)** describes the research underpinning the impact. Underpinning research must meet specific eligibility requirements which can be found here: [REF 2029 E&I Guidance Underpinning Research](https://2029.ref.ac.uk/guidance/section-6-engagement-and-impact-guidance/#8.) 
+3.  **References to Research Outputs (does not contribute to word count)** must include a maximum of 6 references to research 
+4.  **Details of Impact (1500 words)** provides clear evidence of the impact being described 
+5.  **Sources to Corroborate (does not contribute to word count)** a detailed list of maximum 10 pieces of evidence that corroborate the specific impact claims made in the Summary and Details of Impact sections. These sources should be external to the submitting HEI and could include information in the public domain, confidential reports, or individual beneficiaries who can be contacted. 
+
+Where applicable, [additional contextual information](https://2029.ref.ac.uk/guidance/section-6-engagement-and-impact-guidance/#section-ics-submission-template-contextual-information) such as funding information, persistent identifiers (ROR or ORCiD), and names of collaborators, is also submitted.  
+
+The latest guidance states that information in the ICS may be presented in any format including but not limited to tables, diagrams, charts, graphs, and images. Information about engagement may be included in either the Underpinning Research or Details of Impact section. Quantitative metrics can be used to support qualitative evidence in the ICS of a REF submission; however, metrics alone will not be sufficient to show Impact and Engagement as “each ICS must explain how (through what means) the research led to or contributed to the impact” ([REF Impact – UKRI](https://2029.ref.ac.uk/guidance/section-6-engagement-and-impact-guidance/)).  
+
+Below is an example of the metrics one might use to evidence engagement in the REF context for an ICS. As stated previously, these metrics should not stand alone without qualitative support. The contents of this module will be amended as further guidance is made available.  
+
+#### **Example** 
+
+For REF2021, the University of Derby submitted the following ICS within UoA 7: [Impact case study : The Conservation of Coral Reefs in the Face of Climate Change](https://results2021.ref.ac.uk/impact/6a06fc0a-a946-4169-baff-1e7de99aebfd?page=1) which can be found on the [Impact Case Study Database](https://results2021.ref.ac.uk/impact).  
+
+**Policy Mentions** would showcase how the research is interacting with public policy, which is part of the REF definition of Impact. Further describing the countries of origin for these policy documents would display international reach of the research. However, these are only proxy indicators of ‘reach’ and ‘significance’, in previous REF impact exercises it has been necessary to evidence what changes and positive outcomes have arisen from these policy engagements.  
+
+**Altmetrics** can indicate engagement with research beyond the academic sphere into the realm of social media, the news life cycle etc. Like with citations, counting mentions on X (for example), does not indicate a positive or negative interaction, nor its impact which REF defines as the positive benefit or change resulting from these interactions.  
+
+The research referenced in section 3 of the example ICS consists of 6 peer-reviewed journal articles. As a research corpus these articles have:  
+
+-   Total Number of Citations from Policy Documents\*: 10  
+-   Countries of Citing Policy Documents\*: International (United Nations), Australia, and the United States of America 
+-   Total News Story Mentions\*\*: 23 
+-   Total X Post Mentions\*\*: 243 
+-   50% of the underpinning research outputs have Altmetric Attention Scores in the top 5% of all research outputs scored by Altmetric\*\* 
+
+\*Policy data were collected for this example using Elsevier’s SciVal on 29/10/2025.
+
+\*\*Altmetric data were collected for this example using the Altmetric Bookmarklet Tool on 29/10/2025.
+
+As mentioned previously, these metrics would have to be supported by further qualitative investigation into the policy documents citing the underpinning research, as well as the benefits which have arisen from the news story or X post mentions.  
+
+More guidance on the types of appropriate quantitative indicators will be provided further into 2026. This module will be updated to reflect the latest guidance as it becomes available. REF is very complicated, and there is more to the process than discussed here. This module has just been a quick overview of a REF submission so ...
+
+### **What’s next?** 
+
+University of Derby resources:  
+
+Read the [Introduction to REF at University of Derby](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/Introduction-to-the-REF.aspx#the-ref-is-a-process-of-expert-review%2C-carried-out-by-expert-panels-for-each-of-the-34-subject-based-units-of-assessment-(uoas)%2C) sharepoint page.  
+
+Watch the [REF – What is it all about?](https://www.derby.ac.uk/magazine/issue-15/research-round-up/research-excellence-framework-ref---what-is-it-all-about.php) Video  
+
+For more in-depth information check out:  
+
+-   [Outputs (REF)](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/Outputs-(REF).aspx) sharepoint page 
+-   [Impact Case Studies (REF)](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/REF%202021-Impact.aspx) sharepoint page 
+-   [Impact and Public Engagement](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/Impact.aspx) sharepoint page 
+-   [Environment (REF)](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/Environment-(REF).aspx) sharepoint page 
+
+Specific question? Contact the [Impact Team,](https://unimailderbyac.sharepoint.com/sites/URKEO/SitePages/MEET-THE-IMPACT-TEAM.aspx) or the Research Intelligence Librarian at [n.richards1\@derby.ac.uk](mailto:n.richards1@derby.ac.uk).  
+
+Further resources external to the University of Derby:  
+
+-   Latest guidance on the REF: <https://2029.ref.ac.uk/guidance/>  
+-   Resources on the REF Webpage: <https://2029.ref.ac.uk/resources/> 
