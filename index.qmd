@@ -11,6 +11,6 @@ This module is designed for:
 -   Anyone who is interested in how research is measured and assessed;
 -   Anyone involved in recruitment, reward and recognition processes or grant applications where research may be used as an assessment tool.
 
-Everyone should complete Section 1, 2, and 3. Section 4 is for those who are involved in recruitment, reward and recognition processes, or grant applications as an assessor of people.
+Everyone should complete Sections 1, 2, and 3. Section 4 is for those who are involved in recruitment, reward and recognition processes, or grant applications as an assessor of people. Section 5 contextualizes this information within the United Kingdom's Research Excellence Framework (REF), and discusses how research metrics may be relevant for REF2029. 
 
 For help please contact the Research Intelligence Librarian via n.richards1\@derby.ac.uk ![](images/LYL_Red.png.png){fig-alt="Red Love Your Library logo" fig-align="left" width=10%}
